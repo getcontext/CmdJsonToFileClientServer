@@ -10,7 +10,7 @@ import java.io.PrintWriter;
  *
  */
 abstract public class AbstractFileWriter {
-	public static final String DIRECTORY_SEPARATOR = getFileseparator();
+	public static final String DIRECTORY_SEPARATOR = getFileseparator(); //does it CONSTANT encapsulation ?
 
 	private FileWriter outputFile;
 	private PrintWriter output;
