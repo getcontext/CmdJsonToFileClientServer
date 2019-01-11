@@ -1,1 +1,1 @@
-task for one of Berlin fintech start up's
+command line tool that executes call to url that is responding in json. transforms it and writes to file.
